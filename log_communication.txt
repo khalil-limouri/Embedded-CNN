@@ -1,0 +1,145 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Oct 15 22:48:57 2022
+
+@author: eleves
+"""
+
+Output from spyder call 'get_namespace_view':
+
+
+----------- Inference 0 requested: -----------
+
+Chosen input's corresponding label is esca according to y_test
+
+
+STM32:
+Obtained probabilities: 
+[[2.97082437e+38 2.97079192e+38]]
+Model prediction is [0] with probability [2.97082437e+38]
+
+***** Prediction matches with y_test label
+
+
+----------- Inference 1 requested: -----------
+
+Chosen input's corresponding label is healthy according to y_test
+
+
+STM32:
+Obtained probabilities: 
+[[3.39614487e+38 3.39615136e+38]]
+Model prediction is [1] with probability [3.39615136e+38]
+
+***** Prediction matches with y_test label
+
+
+----------- Inference 2 requested: -----------
+
+Chosen input's corresponding label is esca according to y_test
+
+
+STM32:
+Obtained probabilities: 
+[[2.97079841e+38            nan]]
+Model prediction is [1] with probability [nan]
+
+***** Prediction does not match with y_test label
+
+
+----------- Inference 3 requested: -----------
+
+Chosen input's corresponding label is esca according to y_test
+
+
+STM32:
+Obtained probabilities: 
+[[ 1.61408648e+19 -2.97082437e+38]]
+Model prediction is [0] with probability [1.61408648e+19]
+
+***** Prediction matches with y_test label
+
+
+----------- Inference 4 requested: -----------
+
+Chosen input's corresponding label is esca according to y_test
+
+
+STM32:
+Obtained probabilities: 
+[[1.6140900e+19 3.3995004e+38]]
+Model prediction is [1] with probability [3.3995004e+38]
+
+***** Prediction does not match with y_test label
+
+
+----------- Inference 5 requested: -----------
+
+Chosen input's corresponding label is esca according to y_test
+
+
+STM32:
+Obtained probabilities: 
+[[1.84465671e+19 1.61048712e+19]]
+Model prediction is [0] with probability [1.84465671e+19]
+
+***** Prediction matches with y_test label
+
+
+----------- Inference 6 requested: -----------
+
+Chosen input's corresponding label is healthy according to y_test
+
+
+STM32:
+Obtained probabilities: 
+[[-3.40279750e+38 -2.97743806e+38]]
+Model prediction is [1] with probability [-2.97743806e+38]
+
+***** Prediction matches with y_test label
+
+
+----------- Inference 7 requested: -----------
+
+Chosen input's corresponding label is healthy according to y_test
+
+
+STM32:
+Obtained probabilities: 
+[[-2.97743806e+38             nan]]
+Model prediction is [1] with probability [nan]
+
+***** Prediction matches with y_test label
+
+
+----------- Inference 8 requested: -----------
+
+Chosen input's corresponding label is healthy according to y_test
+
+
+STM32:
+Obtained probabilities: 
+[[nan nan]]
+Model prediction is [0] with probability [nan]
+
+***** Prediction does not match with y_test label
+
+
+----------- Inference 9 requested: -----------
+
+Chosen input's corresponding label is healthy according to y_test
+
+
+STM32:
+Obtained probabilities: 
+[[            nan -3.40281049e+38]]
+Model prediction is [0] with probability [nan]
+
+***** Prediction does not match with y_test label
+
+
+Elapsed time: 45.98349571228027 s
+
+All inferences have been effected
+
+Number of error reported according to y_test: 4
