@@ -1,6 +1,6 @@
 # Embedded Neural Network on MCU
 
-#### - [lien vers le répertoire du projet] ([https://www.sciencegate.app/document/10.1016/j.dib.2021.106809)](https://gitlab.emse.fr/khalil.limouri/embedded-neural-network-on-mcu)
+- [ ] [lien vers le répertoire du projet] ([https://www.sciencegate.app/document/10.1016/j.dib.2021.106809)](https://gitlab.emse.fr/khalil.limouri/embedded-neural-network-on-mcu)
 ## A. Introduction au projet 
 Dans le cadre de la troisième année d’études à l'École Nationale des Mines de Saint-Étienne, cycle ISMIN, j’ai eu l'occasion d'assister à des séances de Travaux Dirigés. Ces dernières s’appuient sur les connaissances acquises lors des TP et du cours de Machine Learning.
 
